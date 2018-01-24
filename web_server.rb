@@ -1,7 +1,6 @@
 require 'socket'
 require 'uri'
 require './helpers/server_helper'
-require 'pry'
 
 WEB_ROOT = './public'
 
